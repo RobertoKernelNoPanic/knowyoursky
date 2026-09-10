@@ -6,6 +6,26 @@ Bacheca delle novità di **KnowYourSky** (nome in codice di versione: Orion), in
 
 ---
 
+### Versione 1.0.59
+
+*Data: settembre 2026*
+
+- Aggiunta l'etichetta "Versione Beta" in Home e nei Crediti, per trasparenza sullo stato del progetto
+- Aggiunto il link diretto all'informativa sulla privacy nella schermata Crediti
+- Chiarito che "Orion" è solo il nome in codice interno della versione, non il nome dell'app
+- Confermato e reso esplicito che l'app non richiede l'accesso a internet, in linea con l'informativa sulla privacy
+
+---
+
+### Versione 1.0.56
+
+*Data: settembre 2026*
+
+- Il punteggio bonus ora è sempre visibile durante il gioco, non solo a fine partita
+- Corretta la schermata "Qualità del cielo" quando il telefono è ruotato in orizzontale
+
+---
+
 ### Versione 1.0.55
 
 *Data: settembre 2026*
