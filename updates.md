@@ -10,10 +10,9 @@ Changelog board for **KnowYourSky** (version code name: Orion), in plain languag
 
 *Date: September 2026*
 
-- Added a "Beta Version" label on the Home screen and in Credits, for transparency about the project's status
-- Added a direct link to the Privacy Policy in the Credits screen
-- Clarified that "Orion" is just the version's internal codename, not the app's name
-- Confirmed and made explicit that the app doesn't request internet access, in line with the Privacy Policy
+- Added Beta label
+- Privacy Policy link in Credits
+- No internet permission required
 
 ---
 
@@ -21,8 +20,8 @@ Changelog board for **KnowYourSky** (version code name: Orion), in plain languag
 
 *Date: September 2026*
 
-- The bonus score is now always visible while playing, not only at the end of the run
-- Fixed the "Sky Quality" screen when the phone is rotated to landscape
+- Bonus score always visible
+- Fixed landscape mode in Sky Quality
 
 ---
 
