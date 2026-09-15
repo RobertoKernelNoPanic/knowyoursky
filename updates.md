@@ -6,6 +6,16 @@ Changelog board for **KnowYourSky** (version code name: Orion), in plain languag
 
 ---
 
+### Version 1.0.60
+
+*Date: September 2026*
+
+- Guided tutorial for the Sky Quality test (Bortle scale)
+- Real-time sky map during the test, to compare it better with the real sky
+- Added a note about the astronomical data in the first tutorial
+
+---
+
 ### Version 1.0.59
 
 *Date: September 2026*

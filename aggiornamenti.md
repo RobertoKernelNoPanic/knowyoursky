@@ -6,6 +6,16 @@ Bacheca delle novità di **KnowYourSky** (nome in codice di versione: Orion), in
 
 ---
 
+### Versione 1.0.60
+
+*Data: settembre 2026*
+
+- Tutorial guidato per il test Qualità del cielo (scala Bortle)
+- Mappa del cielo in tempo reale durante il test, per confrontarla meglio con quello vero
+- Aggiunta una nota sui dati astronomici nel tutorial iniziale
+
+---
+
 ### Versione 1.0.59
 
 *Data: settembre 2026*
