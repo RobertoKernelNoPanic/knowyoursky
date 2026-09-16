@@ -6,6 +6,16 @@ Bacheca delle novità di **KnowYourSky** (nome in codice di versione: Orion), in
 
 ---
 
+### Versione 1.0.62
+
+*Data: settembre 2026*
+
+- Bonus di punteggio per chi gioca in Medio/Esperto senza le linee guida
+- Nuova schermata che spiega come funzionano i punteggi, prima del primo livello
+- Il bonus di difficoltà è visibile anche a fine partita e in classifica
+
+---
+
 ### Versione 1.0.60
 
 *Data: settembre 2026*
