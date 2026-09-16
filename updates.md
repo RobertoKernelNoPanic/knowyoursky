@@ -6,13 +6,16 @@ Changelog board for **KnowYourSky** (version code name: Orion), in plain languag
 
 ---
 
-### Version 1.0.62
+### Version 1.0.63
 
 *Date: September 2026*
 
 - Score bonus for playing Medium/Expert difficulty with guide lines off
 - New screen explaining how scoring works, before your first level
 - The difficulty bonus is now visible at the end of a run and on the leaderboard
+- Nearby constellation names now appear after every answer, to help you learn to spot them
+- Performance heads-up when picking Expert difficulty
+- New tagline "Don't just point at the sky. Actually learn it." on the home screen and app launch
 
 ---
 

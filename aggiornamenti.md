@@ -6,13 +6,16 @@ Bacheca delle novità di **KnowYourSky** (nome in codice di versione: Orion), in
 
 ---
 
-### Versione 1.0.62
+### Versione 1.0.63
 
 *Data: settembre 2026*
 
 - Bonus di punteggio per chi gioca in Medio/Esperto senza le linee guida
 - Nuova schermata che spiega come funzionano i punteggi, prima del primo livello
 - Il bonus di difficoltà è visibile anche a fine partita e in classifica
+- Dopo ogni risposta compaiono anche i nomi delle costellazioni vicine, per imparare a riconoscerle
+- Avviso di prestazioni quando scegli la modalità Esperto
+- Nuovo messaggio "Non puntare il cielo. Imparalo davvero." in home e all'apertura dell'app
 
 ---
 
