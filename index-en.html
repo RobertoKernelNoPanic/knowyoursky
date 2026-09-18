@@ -127,6 +127,17 @@
     color: var(--text-secondary);
   }
 
+  .hero-poetic {
+    margin: 10px 0 0;
+    max-width: 42ch;
+    font-family: var(--font-display);
+    font-style: italic;
+    font-weight: 500;
+    font-size: 1.15rem;
+    line-height: 1.5;
+    color: var(--accent-strong);
+  }
+
   .badges {
     display: flex;
     flex-wrap: wrap;
@@ -137,8 +148,9 @@
     font-family: var(--font-mono);
     font-size: 0.72rem;
     letter-spacing: 0.02em;
-    color: var(--text-secondary);
-    border: 1px solid var(--line);
+    color: var(--alien);
+    border: 1px solid rgba(86, 192, 140, 0.4);
+    background: var(--alien-soft);
     border-radius: 999px;
     padding: 6px 12px;
     white-space: nowrap;
@@ -419,7 +431,7 @@
       <div class="topnav-links">
         <a href="#for-whom">For whom</a>
         <a href="#features">Features</a>
-        <a href="updates.html">Updates <span class="v">v1.0.63</span></a>
+        <a href="updates.html">Updates <span class="v">v1.0.64</span></a>
         <a href="aggiornamenti.html">Aggiornamenti (IT)</a>
       </div>
     </div>
@@ -484,8 +496,11 @@
     </div>
 
     <div class="hero-copy">
-      <p class="eyebrow">Amateur project · free · Beta</p>
+      <p class="eyebrow">Real data · Free game · For astronomy lovers and everyone else</p>
       <h1 class="headline">Don't just point at the sky.<br><em>Actually learn it.</em></h1>
+      <p class="hero-poetic">
+        Long before telescopes, the sky was read with eyes and imagination.
+      </p>
       <p class="subhead">
         KnowYourSky uses real astronomical data — magnitudes, geometries, and true positions, not a stylized illustration — to train you to recognize stars, constellations, and deep-sky objects. The pretext is a game: a lost alien to guide home, one constellation at a time. The result is that tomorrow night, you recognize them yourself — with the naked eye, no phone in hand.
       </p>
