@@ -6,10 +6,30 @@ Bacheca delle novità di **KnowYourSky** (nome in codice di versione: Orion), in
 
 ---
 
-### Versione 1.0.64
+### Versione 1.0.67
 
 *Data: settembre 2026*
 
+- Nuovo tutorial interattivo prima del primo livello: 23 passaggi, con spiegazioni e piccole prove pratiche, per imparare a riconoscere stelle e costellazioni da zero — colori, luminosità, nomi delle stelle, Stella Polare, oggetti come nebulose e ammassi, e come orientarsi davvero nel cielo
+- Il tutorial si può rivedere in ogni momento da Impostazioni
+- Corretta la selezione della difficoltà nella schermata guida: ora funziona davvero, invece di restare sempre su "Esperto" a prescindere da cosa si tocca
+
+---
+
+### Versione 1.0.66
+
+*Data: settembre 2026*
+
+- Corretta l'icona dell'app: l'orientamento di Orione ora rispetta quello reale
+- Semplificata la mappa del cielo in home: rimosso il selettore di modalità, resta sempre la rappresentazione corretta (equatoriale, come sulle mappe stellari)
+
+---
+
+### Versione 1.0.65
+
+*Data: settembre 2026*
+
+- Corretto un bug di orientamento: alcune costellazioni (tra cui Orione) apparivano specchiate rispetto al cielo vero, sia nel gioco che nell'icona dell'app
 - Regole di difficoltà più chiare: Facile senza bonus, Normale con domande sulle stelle più luminose, Esperto senza aiuti dopo la risposta
 - Bonus di punteggio per chi gioca in Medio/Esperto senza le linee guida, visibile anche a fine partita e in classifica
 - Due nuove schermate guida prima del primo livello: come funzionano i punteggi e cosa cambia tra i livelli di difficoltà
