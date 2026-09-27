@@ -6,6 +6,37 @@ Bacheca delle novità di **KnowYourSky** (nome in codice di versione: Orion), in
 
 ---
 
+### Versione 1.0.70
+
+*Data: settembre 2026*
+
+- Corretto un bug nel tutorial: se spostavi la visuale con le dita e poi premevi "Avanti", il passaggio successivo poteva apparire fuori centro o con uno zoom sbagliato — ora ogni passaggio riparte sempre con l'inquadratura giusta
+- Permesso uno zoom leggermente maggiore, per vedere meglio il colore delle stelle più piccole
+
+---
+
+### Versione 1.0.69
+
+*Data: settembre 2026*
+
+- Prima del primissimo livello, ora l'app chiede se vuoi vedere il tutorial oppure passare subito alla partita — non parte più in automatico
+- Schermata di fine livello riordinata: punteggio, bonus e tempo sono ora in piccole schede con icone invece di un lungo elenco di testo
+
+---
+
+### Versione 1.0.68
+
+*Data: settembre 2026*
+
+- Il tutorial diventa una vera modalità di gioco, "Interattiva": si trova nella scelta modalità e si può giocare quando vuoi, non solo la prima volta
+- Da rigiocare, insegna una costellazione diversa a caso tra cinque (Orione, Cigno, Toro, Leone, Gemelli), non sempre la stessa
+- Aggiunte tre parti animate con i classici riferimenti per orientarsi nel cielo: le stelle puntatrici dell'Orsa Maggiore verso la Stella Polare, l'arco del Carro fino ad Arturo, e la cintura di Orione fino a Sirio — con la vista che si sposta davvero da una stella all'altra
+- Le prove pratiche del tutorial ora chiedono solo cose utili da verificare (colore, luminosità), niente più tocchi "a caso"
+- Nuova pagina "Le difficoltà, spiegate" consultabile in ogni momento dalla scelta modalità
+- Piccola correzione di testo nella schermata guida
+
+---
+
 ### Versione 1.0.67
 
 *Data: settembre 2026*
