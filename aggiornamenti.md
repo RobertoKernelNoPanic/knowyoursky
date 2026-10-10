@@ -6,6 +6,41 @@ Bacheca delle novità di **KnowYourSky** (nome in codice di versione: Orion), in
 
 ---
 
+### Versione 1.0.73
+
+*Data: ottobre 2026*
+
+- Corretto un bug: il tempo del livello iniziava a contare già durante le schermate introduttive e il tutorial, invece che solo all'inizio vero della partita
+- Riorganizzati la scelta modalità e altri menù in schede più compatte e ordinate, che riempiono lo schermo senza bisogno di scorrere
+- "A mano libera" ora si chiama "Trova con le mani": niente più elenco da scorrere, ma schede con una piccola anteprima della forma di ogni costellazione (ora sempre ben centrata); aprendola si vede la costellazione grande con la bussola che indica la direzione (se attiva, altrimenti te lo chiede lì per lì)
+- Aggiunto un mini tutorial saltabile in "Trova con le mani" su come usarla all'aperto (telefono in piano, muoversi orizzontalmente)
+- Icona dell'app rifinita: l'alieno si vede di spalle, con uno stile più adulto e un po' di ombreggiatura per dare profondità, mentre indica una piccola Orione luminosa
+
+---
+
+### Versione 1.0.72
+
+*Data: ottobre 2026*
+
+- Aggiunta la bussola (opzionale, disattivata di default, attivabile in Impostazioni) alla modalità "A mano libera": mostra in tempo reale quanto girarti per puntare ogni costellazione, sia nella schermata dedicata sia nel pulsante in game — nessun dato di posizione usato o salvato, solo il magnetometro del telefono
+- Aggiunto un mini tutorial saltabile la prima volta che apri "A mano libera", richiamabile in ogni momento con il pulsante "?"
+- Nuovo selettore di città in Impostazioni: scegli da un elenco fisso quale città usare per i calcoli del cielo reale ("Tempo reale" e "A mano libera") — nessun GPS, solo questa scelta
+- Nuova icona dell'app: l'alieno protagonista del gioco, che indica una costellazione nel cielo
+
+---
+
+### Versione 1.0.71
+
+*Data: ottobre 2026*
+
+- Nuova modalità "A mano libera" (beta): indicazioni dal vivo per trovare le costellazioni principali stasera, all'aperto, usando solo la mano come righello (pugni e spanne)
+- Aggiunto un piccolo pulsante nella modalità "Tempo reale" per ottenere la stessa indicazione sulla domanda in corso, senza svelare la risposta
+- Aggiunte piccole animazioni di transizione nei menù e in game (pressione pulsanti, cambio schermata) per un'esperienza più fluida
+- Corretto un bug per cui un pannello in basso durante il gioco poteva sconfinare sopra la barra di navigazione di Android su alcuni dispositivi
+- Aggiunto un piccolo indicatore quando una schermata ha altro contenuto da scorrere più in basso, per non farlo passare inosservato
+
+---
+
 ### Versione 1.0.70
 
 *Data: settembre 2026*
