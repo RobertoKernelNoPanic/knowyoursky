@@ -6,6 +6,53 @@ Bacheca delle novità di **KnowYourSky** (nome in codice di versione: Orion), in
 
 ---
 
+### Versione 1.1.1
+
+*Data: ottobre 2026*
+
+- Corretto un bug: il badge "BETA" di "Trova con le mani" si sovrapponeva male quando si apriva la scheda di conferma dal menù
+- In "Trova con le mani", aggiunta una sezione "Stelle" separata dalle costellazioni: 6 stelle principali (Sirio, Vega, Arturo, Stella Polare, Capella, Deneb), ciascuna con colore e luminosità reali e uno specchietto con colore, magnitudine ed eventuale doppia stella
+
+---
+
+### Versione 1.1.0
+
+*Data: ottobre 2026*
+
+- Scelta modalità riorganizzata: Principali e Interattiva ora in evidenza con due tasti più grandi in alto, il resto delle modalità sotto come prima
+- Il cielo è ora sempre rappresentato come in un atlante/manuale di astronomia: tolto il concetto "vista equatoriale/alt-az" e il relativo tasto, mai davvero utile al giocatore
+- In "Tempo reale", il suggerimento a mano libera ha ora un suo spazio dedicato sotto la mappa del cielo, invece di stare incastrato sopra i pulsanti di risposta
+- Aggiunta una breve spiegazione toccando ciascuna delle iconcine del punteggio in game (vite, serie, punteggio fase, punti bonus, scoperti, tempo)
+- Corretto un piccolo slide del tutorial di benvenuto rimasto indietro ("Quattro rotte" quando ormai le modalità sono sei)
+- Corretto un fastidioso spazio vuoto nella home, lasciato dal testo poetico una volta sparito; il record spostato sotto i bottoni
+- Il tasto per salvare e uscire durante una partita ora si legge chiaramente ("Esci"), non solo un'icona
+
+---
+
+### Versione 1.0.75
+
+*Data: ottobre 2026*
+
+- Rimosso per ora il suggerimento 💡 (stella più luminosa) durante le domande sulle costellazioni
+- L'icona "a mano" usata per "Trova con le mani" ora è un dito indice che punta, più chiara di prima
+- La schermata "Le difficoltà, spiegate" appare ora prima di ogni partita (non solo la primissima volta): il pulsante dedicato nel menù principale non serve più ed è stato tolto
+- Nella scelta modalità, sotto la griglia è comparso un piccolo indicatore con quante costellazioni/oggetti hai già padroneggiato per ciascuna fase
+- Migliorata la resa su tablet della schermata iniziale e della scelta modalità: non più icone enormi e sproporzionate, il contenuto ora resta in una colonna di dimensioni corrette anche su schermi grandi
+
+---
+
+### Versione 1.0.74
+
+*Data: ottobre 2026*
+
+- Corretto un bug: durante una partita, le costellazioni apparivano spostate verso il basso, quasi sopra i pulsanti delle risposte, invece che centrate nello spazio libero
+- "Modalità Interattiva" ora mostra una breve schermata di benvenuto prima di iniziare, invece di partire dritta sul primo passaggio
+- "Riprendi", "Studio libero" e "Ripassa i tuoi errori" ora sono schede più grandi e curate, distinte dai pulsantini di utilità
+- Aggiunto un pulsante "Ripassa i tuoi errori" anche nella schermata di fine livello
+- In "Trova con le mani", le indicazioni ora cambiano a seconda che tu abbia attivato la bussola o no, invece di mostrare sempre lo stesso testo (che con la bussola accesa risultava confuso)
+
+---
+
 ### Versione 1.0.73
 
 *Data: ottobre 2026*

@@ -6,6 +6,53 @@ Changelog board for **KnowYourSky** (version code name: Orion), in plain languag
 
 ---
 
+### Version 1.1.1
+
+*Date: October 2026*
+
+- Fixed a bug where the "BETA" badge on "Find with your hands" overlapped badly when opening the confirm sheet from the menu
+- In "Find with your hands", added a "Stars" section separate from constellations: 6 principal stars (Sirius, Vega, Arcturus, Polaris, Capella, Deneb), each with its real color and brightness and a short info card with color, magnitude, and whether it's a double star
+
+---
+
+### Version 1.1.0
+
+*Date: October 2026*
+
+- Mode selection reorganized: Main and Interactive are now featured as two bigger buttons up top, the rest of the modes stay below as before
+- The sky is now always shown like in an astronomy atlas/manual: removed the "equatorial/alt-az view" concept and its button, which was never really useful to the player
+- In "Real time" mode, the hands-free hint now has its own dedicated space below the sky map, instead of being squeezed above the answer buttons
+- Added a brief explanation when tapping each of the in-game score icons (lives, streak, stage score, bonus points, discovered, time)
+- Fixed a welcome-tutorial slide that had fallen behind ("Four routes" when there are now six modes)
+- Fixed an annoying empty gap on the home screen, left behind by the poetic text once it faded away; moved the record badge below the buttons
+- The save-and-exit button during a game now reads clearly ("Exit"), not just an icon
+
+---
+
+### Version 1.0.75
+
+*Date: October 2026*
+
+- Removed the 💡 hint (brightest star) during constellation questions, for now
+- The "hand" icon used for "Find with your hands" is now a pointing index finger, clearer than before
+- The "Difficulty levels, explained" screen now appears before every game (not just the very first time): the dedicated button on the main menu is no longer needed and has been removed
+- On the mode selection screen, a small indicator now shows how many constellations/objects you've already mastered per stage, right below the grid
+- Improved tablet layout for the home screen and mode selection: no more huge, out-of-proportion icons — content now stays in a properly sized column even on large screens
+
+---
+
+### Version 1.0.74
+
+*Date: October 2026*
+
+- Fixed a bug where, during a game, constellations appeared shifted down, almost on top of the answer buttons, instead of centered in the free space
+- "Interactive Mode" now shows a short welcome screen before starting, instead of dropping straight into the first step
+- "Resume", "Free study" and "Review your mistakes" are now bigger, nicer cards, distinct from the small utility buttons
+- Added a "Review your mistakes" button to the end-of-level screen too
+- In "Find with your hands", the directions now change depending on whether you've turned the compass on or not, instead of always showing the same text (which was confusing with the compass on)
+
+---
+
 ### Version 1.0.73
 
 *Date: October 2026*
